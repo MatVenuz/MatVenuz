@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatYGVZ
 - 👀 I’m interested in Web Dessing and Programming
-- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me Here
 
